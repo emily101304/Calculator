@@ -51,7 +51,7 @@ public class App {
             }
 
             //먼저 저장된 값을 삭제할 부분
-            System.out.println("가장 최근 값을 삭제하시겠습니까?");
+            System.out.println("가장 최근 값을 삭제하시겠습니까?(yes 입력 시, 삭제!)");
             String delStr = sc.next();
             if (delStr.equals("yes")) {
                 cal1.delResult();
