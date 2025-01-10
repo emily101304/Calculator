@@ -17,6 +17,9 @@
 ## 🧨Trouble Shooting🔫
 
 
+## Thoughts💭
+
+
 
 
 
