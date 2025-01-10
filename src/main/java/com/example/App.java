@@ -40,7 +40,7 @@ public class App {
             System.out.println("결과 : " + result);
 
             //값을 수정할 부분
-            System.out.println("수정하시겠습니까?");
+            System.out.println("수정하시겠습니까? (yes값 입력 시 수정 가능)");
             String replace = sc.next();
             if (replace.equals("yes")) {
                 System.out.println("몇번째 값을 수정하시겠습니까?");
@@ -50,7 +50,7 @@ public class App {
                 cal1.setResult(index,number);
             }
 
-                //먼저 저장된 값을 삭제할 부분
+            //먼저 저장된 값을 삭제할 부분
             System.out.println("가장 최근 값을 삭제하시겠습니까?");
             String delStr = sc.next();
             if (delStr.equals("yes")) {
