@@ -5,7 +5,6 @@ import java.util.ArrayList;
 
 public class Calculator {
     private ArrayList<Integer> results = new ArrayList<>();
-    int result;
 
     public int calculator (int num1, int num2, char operator) {
         int result = 0;
