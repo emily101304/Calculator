@@ -1,5 +1,5 @@
 ## 프로젝트 소개
-[CH 2 계산기 과제](https://teamsparta.notion.site/Spring-5-CH-2-16f2dc3ef514805d80b7eb142c4ba79d)
+[CH.2 계산기 과제](https://teamsparta.notion.site/Spring-5-CH-2-16f2dc3ef514805d80b7eb142c4ba79d)
 <br><br>
 🐣 `Lv.1` 클래스 없이 기본적인 연산을 수행할 수 있는 계산기 만들기 <br>
 🐥 `Lv.2` 클래스를 적용하여 기본적인 연산을 수행할 수 있는 계산기 만들기 <br>
@@ -16,10 +16,13 @@
 
 ## 🧨Trouble Shooting🔫
 ❗️`Lv.1` [트러블슈팅](http://emily101304.tistory.com/21) <br>
-[‼️ `Lv.2` 트러블슈팅]
+‼️ `Lv.2` [트러블슈팅](http://emily101304.tistory.com/22) <br>
 
 ## Thoughts💭
-
+* 코드를 작성하기 전에 프레임부터 구상을 미리 해보자.
+* 객체를 생성하고 타 클래스로부터 메서드를 구현하는 방법을 복습해보자.
+* JAVA의 기본 문법에 대해 조금 더 숙지하자.
+* 추후, 3단계까지 구현해 볼 수 있도록 기초를 탄탄하게!(~이번엔 못했지만ㅜㅜ~)
 
 
 
