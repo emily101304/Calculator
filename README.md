@@ -15,7 +15,7 @@
 * JAVA
 
 ## 🧨Trouble Shooting🔫
-[❗️`Lv.1` 트러블슈팅](http://emily101304.tistory.com/21) <br>
+❗️`Lv.1` [트러블슈팅](http://emily101304.tistory.com/21) <br>
 [‼️ `Lv.2` 트러블슈팅]
 
 ## Thoughts💭
